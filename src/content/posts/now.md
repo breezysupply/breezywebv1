@@ -1,6 +1,6 @@
 ---
 title: Now
-description: What I am up to now.
+description: What I am up to now (As of 3/18/24)
 published: 2024-03-18
 updated: 2024-03-18
 ---

@@ -3,7 +3,7 @@ import "../styles/global.css";
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const { title, description } = Astro.props;
 const metaTitle = title ? `${title} // Brett Pierce` : "Brett Pierce";
-const metaDescription = description ? description : "Cloud Engineer";
+const metaDescription = description ? description : "This is me";
 ---
 
 <html lang="en">
@@ -78,7 +78,7 @@ const metaDescription = description ? description : "Cloud Engineer";
         <p>
           <a href="/" class="font-semibold">Brett Pierce</a>
         </p>
-        <p class="text-secondary">Cloud Engineer at AWS</p>
+        <p class="text-secondary">Cloud Engineer and Small Business Owner</p>
       </header>
 
       <main id="main" class="flex-1">
@@ -91,7 +91,7 @@ const metaDescription = description ? description : "Cloud Engineer";
             <h2 class="font-semibold">Navigation</h2>
             <ul class="mt-4 space-y-0.5">
               {
-                ["bookmarks", "notes", "posts", "resume"].map((slug) => {
+                ["bookmarks", "notes", "posts", "about"].map((slug) => {
                   return (
                     <li>
                       {/* prettier-ignore */}

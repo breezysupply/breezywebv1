@@ -14,24 +14,10 @@ const commitSha = import.meta.env.PUBLIC_VERCEL_GIT_COMMIT_SHA || "";
       <dt>Work</dt>
       <dd>
         Cloud Engineer at <a href="https://aws.amazon.com">Amazon Web Services</a>
+        Also a small business owner: <a href="https://www.sample-surplus.com">Sample Surplus</a> & Barrage800
       </dd>
       <dt>Version</dt>
       <dd><code>1.0.0-alpha</code></dd>
-
-      {
-        commitSha && (
-          <>
-      <dt>Latest commit</dt>
-            <dd>
-              <a
-                href={`https://github.com/alexcarpenter/alexcarpenter.me/commit/${commitSha}`}
-              >
-                <code>{commitSha.slice(0, 7)}</code>
-              </a>
-            </dd>
-          </>
-        )
-      }
     </dl>
   </section>
 </BaseLayout>

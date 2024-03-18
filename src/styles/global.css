@@ -119,4 +119,34 @@
   .prose :where(td[align="right"]) {
     @apply font-mono text-secondary;
   }
+
+/* Hide the actual checkbox */
+.grid-toggle {
+  display: none;
+}
+
+/* Initial state of the grid is collapsed */
+.grid {
+  display: grid;
+  grid-template-rows: 0fr; /* Start collapsed */
+  transition: grid-template-rows 0.5s ease-in-out; /* Animation */
+}
+
+/* The grid inner container */
+.grid-inner {
+  overflow: hidden; /* Hide the overflow content when collapsed */
+}
+
+/* When the checkbox is checked, target the .grid container and expand it */
+.grid-toggle:checked + .grid {
+  grid-template-rows: 1fr; /* Expand to full row height */
+}
+
+/* Style for the label which acts as the "button" */
+.grid-label {
+  /* Add button-like styles here */
+  cursor: pointer;
+  /* Other styling properties */
+}
+
 }

@@ -1,4 +1,4 @@
-# alexcarpenter.me
+# brettpierce.me
 
 - Framework: Astro
 - Deployment: Vercel
@@ -7,8 +7,8 @@
 ## Running locally
 
 ```bash
-git clone https://github.com/alexcarpenter/alexcarpenter.me.git
-cd alexcarpenter.me
+git clone https://github.com/breezysupply/breezywebv1
+cd breezywebv1
 bun install
 bun dev
 ```

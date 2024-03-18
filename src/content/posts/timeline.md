@@ -1,20 +1,19 @@
 ---
 title: Timeline
-description: Non-exhaustive list of key life and work events.
+description: Key personal and work events.
 published: 2024-03-17
 ---
 
-| Description                                     | Tag      |       Date |
-| ----------------------------------------------- | -------- | ---------: |
-| Joined Clerk as a Senior UI Engineer            | Work     | 2024-01-04 |
-| Joined Watershed as a Web Engineer              | Work     | 2023-07-12 |
-| Micah was born in Grand Rapids, MI.             | Personal | 2023-05-09 |
-| Promoted to Senior Web Engineer at HashiCorp    | Work     | 2022-11-03 |
-| Promoted to Team Lead Web Engineer at HashiCorp | Work     | 2022-05-18 |
-| Joined HashiCorp as a Web Engineer              | Work     | 2021-07-20 |
-| Joined NationBuilder as a UI Engineer           | Work     | 2018-11-15 |
-| Promoted to Senior Web Developer at Mighty      | Work     | 2018-06-01 |
-| Joined Mighty as a Web Developer                | Work     | 2015-10-09 |
-| Stacey and I married in Lowell, MI.             | Personal | 2013-07-24 |
-| Joined Masuga Design as a Front-end Developer   | Work     | 2012-02-22 |
-| Born in Grand Rapids, MI.                       | Personal | 1988-01-03 |
+| Description                                          | Tag      |       Date |
+| -----------------------------------------------------| -------- | ---------: |
+| Promoted to Cloud Engineer at AWS                    | Work     | 2024-02-28 |
+| Joined AWS as a Cloud Analyst                        | Work     | 2022-06-27 |
+| Lost Sean (RIP, brother. I miss you)                 | Personal | 2021-11-29 |
+| Eleanor was born in Sterling, VA                     | Personal | 2021-07-26 |
+| Launched Sample Surplus (Apparel Company)            | Personal | 2020-07-01 |
+| Joined CACI as a Media Consultant                    | Work     | 2020-03-01 |
+| Joined Booz Allen Hamilton as a Cyber Threat Analyst | Work     | 2019-05-01 |
+| Launched Sample Supply Co (Apparel decorator)        | Personal | 2019-03-25 |
+| Ariana and I married in the Philippines              | Personal | 2016-11-10 |
+| Joined the U.S. Army                                 | Work     | 2009-11-17 |
+| Born in Busan, South Korea                           | Personal | 1988-11-18 |

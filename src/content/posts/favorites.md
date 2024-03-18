@@ -1,122 +1,76 @@
 ---
 title: Favorites
 description: My favorite products, tools and gear.
-published: 2023-07-19
-updated: 2024-01-01
+published: 2024-03-17
+updated: 2024-03-17
 toc: true
 ---
 
-## Baby
+## Toddler
 
-- [BabyBjörn Bouncer](https://amzn.to/3RYnoy7)
-- [Baby Jogger city mini GT2 stroller](https://amzn.to/3vmJJgN)
-- [Halo Sleepsack Swaddle](https://amzn.to/3NFTUmY)
-- [OXO Tot Space Saving Drying Rack](https://amzn.to/3tnmOle)
+- [Doona Liki Trike](https://www.doona.com/en-us/trike/discover-liki?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhO6bcdq157Hlym7UoIjqnFwL7SeKGtH2321RIa7cOwCIewA7x4yYxsaAuJkEALw_wcB)
+- [Jeep wagon stroller](https://a.co/d/8vzrRds)
+- [The Nugget](https://nuggetcomfort.com/products/the-nugget-koala)
+- [Bentgo Lunchbox](https://bentgo.com/collections/bentgo-kids-prints/products/bentgo-kids-prints-lunch-box?variant=39976233009246)
 
 ## Bags
 
-- [Evergoods Civic Half Zip 22L](https://evergoods.us/collections/civic-half-zip-series/products/civic-half-zip-22l)
-- [Goruck Bullet Ruck Classic](https://www.goruck.com/products/bullet-ruck-15l)
-- [Tom Bihn Synapse 19](https://www.tombihn.com/collections/best-sellers/products/synapse-19)
-- [Tom Bihn Truck](https://www.tombihn.com/collections/tote-bags/products/the-truck)
+- [Nike Utility Speed](https://a.co/d/dH9VFUo)
+- [Goruck Rucker 4.0 w/ 30lb plate](https://www.goruck.com/products/rucker)
 
 ## Clothing
 
-- [Darn Tough Light Hiker Micro Crew Lightweight Hiking Sock](https://darntough.com/products/mens-merino-wool-light-hiker-micro-crew-lightweight-hiking-socks)
-- [Florence Marine X F1 Burgee Cordura Boardshort](https://www.florencemarinex.com/collections/boardshorts/products/cordura-boardshort)
-- [Patagonia Capilene Cool Daily Hoody](https://www.patagonia.com/product/mens-capilene-cool-daily-hoody/45310.html)
-- [Proof 72-Hour Merino T-Shirt](https://huckberry.com/store/proof/category/p/78223-72-hour-tee-relaxed)
-- [Western Rise Evolution Pant](https://westernrise.com/products/evolution-pant)
-
-## Coffee
-
-- [Breville Barista Express Espresso Machine](https://amzn.to/48oXg5Y)
-- [Kalita Wave 185](https://amzn.to/3RVOwyS)
-- [Trade Coffee Subscription](https://www.drinktrade.com/)
-- [snow peak Ti-Double H450 Stacking Mug](https://amzn.to/3RBGSZa)
-- [YETI Rambler 12oz Hotshot Bottle](https://amzn.to/41CDWzS)
-
-## Flashlights
-
-- [Foursevens Ti Mini Turbo MKIII](https://darksucks.com/products/mini-turbo-mkiii-ti-two-tone)
-- [Prometheus Ti Beta QRV2](https://darksucks.com/products/beta-qrv2-titanium)
-- [ZebraLight SC53c N](https://www.zebralight.com/SC53c-N-Neutral-White-High-CRI-AA-Flashlight_p_249.html)
+- [Smartwool Everyday Larimer Cushion Crew Socks](https://www.rei.com/product/238180/smartwool-everyday-larimer-light-cushion-crew-socks)
+- [Filson Tin Cloth Cruiser Jacket](https://www.filson.com/tin-cloth-short-lined-cruiser-jacket.html#sku=20232828-fco-025010211)
+- [ThruDark Oryon 72HR Merino T-Shirt](https://us.thrudark.com/products/oryon-72hr-merino-tshirt-green?_pos=1&_psq=72+hour&_ss=e&_v=1.0)
+- [Uniqlo Stretch Selvedge Slim-Fit Jeans](https://www.uniqlo.com/us/en/products/E418910-000/00?colorDisplayCode=69&sizeDisplayCode=029&pldDisplayCode=034)
+- [Barrage800 Ops Core hat](https://barrage800.com/products/ops-core-hat)
 
 ## Footwear
-
-- [Birkenstock Boston Clogs](https://amzn.to/3vfOKb4)
-- [Crocs](https://amzn.to/4aynLI3)
-- [New Balance 990](https://amzn.to/48yHaXy)
-- [Xtratuf Deck Boots](https://amzn.to/4844WL7)
+Current rotation:
+- [Nike ACG Mountain Fly Low](https://stockx.com/nike-acg-mountain-fly-low-pilgrim-black?country=US&currencyCode=USD&size=8&srsltid=AfmBOoo5qCzR0h8ISaYZpdJs001sj5WD32M7TLb2_DMzsvnNgOXBVx2du74)
+- [HOKA Ora Slides](https://www.hoka.com/en/us/all-gender-footwear/ora-luxe/196565189301.html?source=shoppingsite_PLA_1134150-SSDD-03/05&kpid=1134150-SSDD-03/05&utm_source=google&utm_medium=pla&gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhPE9X7L7QTsYYrb84KEBtcquj35oWhkhgClftPtiAeIu4IsvNl3rOoaAlQIEALw_wcB&gclsrc=aw.ds)
+- [Nike Invincible 3 (Runners)](https://www.nike.com/t/invincible-3-mens-road-running-shoes-6MqQ72/DR2615-105)
+- [R.A.D R.A.D One (Gym)](https://rad-global.com/collections/r-a-d-one)
+- [Jordan 1 Retro High (Mocha)](https://stockx.com/air-jordan-1-retro-high-dark-mocha)
 
 ## Health and wellness
 
-- [AG1 Athletic Greens](https://www.drinkags1.com/)
-- [Armra Colostrum](https://tryarmra.com/)
+- [BPN Strong Greens](https://www.bareperformancenutrition.com/products/strong-greens)
+- [BPN Strong Reds](https://www.bareperformancenutrition.com/products/strong-reds-superfood-powerhouse)
 - [LMNT Electrolytes](https://drinklmnt.com/)
 
-## Home automation
+## Coffee
 
-- [Apple HomePod Mini](https://www.bestbuy.com/site/apple-homepod-mini-white/6377590.p?skuId=6377590)
-- [Aqara Smart Lock U100](https://amzn.to/49mwQSS)
-- [LEVOIT Humidifiers](https://amzn.to/3uAR38A)
-- [Lutron Aurora Smart Bulb Dimmer Switch](https://amzn.to/3SB7ry7)
-- [meross Smart Plug](https://amzn.to/3HVWZfG)
-- [Philips Hue Light Bulbs](https://amzn.to/3OAnqLG)
-
-## Kitchen
-
-- [Anyday Bowls Everyday Set](https://cookanyday.com/products/the-everyday-set)
-- [Emile Henry Salt Pig](https://amzn.to/41BvGQA)
-- [Globe 6in Chefs Knife](https://amzn.to/48yHyoY)
-- [Klean Kanteen 16oz Pint Cups](https://amzn.to/4aPaYkL)
-- [OXO Pop Containers](https://amzn.to/48yx9JP)
-- [PK300 Original Charcoal Grill](https://www.pkgrills.com/the-all-new-original-pk300-grill-smoker-graphite/)
-- [Javelin PRO Digital Thermometer](https://amzn.to/4aCU74s)
-- [Traeger Ironwood 650 Pellet Grill](https://www.traeger.com/pellet-grills/ironwood/650)
+- [Bones Coffee](https://www.bonescoffee.com)
+- [YETI 20oz Tumbler](https://www.yeti.com/drinkware/tumblers/21071503919.html)
+- [YETI 14oz Stackable Mug](https://www.yeti.com/drinkware/mugs/mug-14oz.html)
 
 ## Knives
 
-- [Benchmade Mini Bugout](https://amzn.to/4avo5Y9)
-- [Urban EDC Baby Barlow](https://urbanedcsupply.com/products/urban-edc-baby-barlow-jade-black-g10)
-- [Milwaukee Fastback Utility Knife](https://www.milwaukeetool.com/Products/Hand-Tools/Cutting/Knives-and-Blades/48-22-1500)
-- [Spyderco Dragonfly II](https://amzn.to/41AnbFD)
+- [Gerber Propel Downrange Auto (coming soon)](https://www.gerbergear.com/en-us/shop/knives/all-knives/propel-downrange-auto-30-000717)
+
+## Flashlights
+
+- [Supreme®/Nebo Slim 1200 Pocket Light](https://stockx.com/supreme-nebo-slim-1200-pocket-light-black)
 
 ## Outerwear
 
-- [Patagonia Nano Puff Vest](https://amzn.to/3tsK2GF)
-- [Outdoor Research Helium Rain Jacket](https://amzn.to/3RBZ8kT)
-- [REI Goretex Mittens](https://www.rei.com/product/194829/rei-co-op-minimalist-gtx-mittens-20?color=BLACK)
-
-## Pouches
-
-- [Evergoods Civic Access Pouch 1L](https://evergoods.us/collections/crossover-gear-in-stock/products/civic-access-pouch-1l)
-- [Evergoods Civic Access Pouch 2L](https://evergoods.us/collections/crossover-gear-in-stock/products/civic-access-pouch-2l)
-- [Goruck Wire Dopp](https://www.goruck.com/products/wire-dopp)
-- [Peak Design Tech Pouch](https://www.peakdesign.com/products/tech-pouch)
-
-## Toiletries
-
-- [Tweezerman G.E.A.R. Facial Hair Scissors](https://amzn.to/41D0osB)
-- [Zwilling J.A. Henckels Ultra-Slim Nail Clipper](https://amzn.to/3vjDN8E)
+- [ThruDark Recoil Jacket](https://us.thrudark.com/products/recoil-jacket-olive-green)
+- [The North Face GTX Mountain Jacket](https://www.ebay.com/itm/186066951595?chn=ps&var=694085705805&_trkparms=ispr%3D1&amdata=enc%3A1h4WrIrjhTFWogdDzrzRbJQ97&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=694085705805_186066951595&targetid=1587262742577&device=c&mktype=pla&googleloc=9007575&poi=&campaignid=20391993730&mkgroupid=151117287549&rlsatarget=pla-1587262742577&abcId=9316964&merchantid=659377281&gad_source=1&gbraid=0AAAAAD_QDh-p--TkNJl7EtvWS2H1wZfFs&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhMIu-C0I41fAAEn0QaWT4FbeNbCey3FkfwnBxSjB7Dq6ShWbkgWoJUaAng_EALw_wcB)
 
 ## Tech
 
-- [Anker 737 GaNPrime, 120W USB C Charger](https://amzn.to/3NDsCOo)
-- [Apple M2 13in Macbook Air](https://www.apple.com/macbook-air-13-and-15-m2/)
-- [Sonos Beam](https://www.sonos.com/en-us/shop/beam)
-- [Sonos One SL](https://www.sonos.com)
+- [Apple M3 16in Macbook Pro](https://www.apple.com/macbook-pro/)
+- [System76 Meerkat](https://system76.com/desktops/meerkat)
 
 ## Tools
 
-- [Klein Tools 14-1 Precision Screwdriver](https://amzn.to/41ElerP)
-- [Milwaukee Gen 3 12v Fuel Impact Driver](https://amzn.to/3viEejp)
-  - [Simon Tools Magnetic Bit Holder](https://amzn.to/3vAJnDx)
-- [Pica-Dry Longlife Automatic Pencil](https://amzn.to/48ArSS0)
-- [Wera 7-1 Bitholding Screwdriver with Removable Bayonet Blade](https://amzn.to/3NIdLSH)
+- [HOTO Tools Screwdriver Tool Set](https://hototools.com/products/3-6v-screwdriver-tool-set)
+- [HOTO Tools Electric Air Pump](https://hototools.com/products/hoto-portable-electric-tire-inflator)
 
 ## Archive
 
 Items that have fallen off my favorites list for one reason or another.
 
-- ~[Bellroy 3 Card Phone Case](https://bellroy.com/products/phone-case-3-card)~
+- Coming Soon

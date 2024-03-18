@@ -1,53 +1,35 @@
 ---
 title: Uses
 description: Things I use and enjoy.
-published: 2024-03-02
-updated: 2024-03-04
+published: 2024-03-18
+updated: 2024-03-18
 toc: true
 ---
 
 ## Apps
 
 - Apple Notes
-- Apple Reminders
+- Discord
 - iTerm 2
-- Karabiner-Elements
-- Raycast
+- Adobe Photoshop
+- Adobe Illustrator
 - Visual Studio Code
 
 ## Coffee
 
-- acaia pearl scale
-- Baratza Encore
-- Breville Barista Touch
-- Hario gooseneck kettle
-- Kalita wave 185
+- Bones Red Velvet
 
 ## Everyday Carry
 
-- Benchmade Mini Bugout CF-Elite
-- Prometheus Beta QRV2 Titanium
+- Apple Watch Ultra
 - The James Brand Midland
-- Timex GMT
-- Victorinox Duluxe Tinker
+- Folding Utility Knife
 
 ## Hardware
 
-- Apple iPhone 15 Pro
-- Apple M2 Macbook Air
-- Apple Studio Display
-- Autonomous SmartDesk Core
-- BenQ ScreenBar Plus
-- Caldigit TS4 Thunderbolt Dock
-- Cloudlifter CL-1
-- Focusrite Scarlett Solo 3rd Gen USB Audio Interface
-- Herman Miller Sayl chair
-- Jarvis Single Monitor Arm
-- Rode PodMic
-- Sony WH1000XM4 headphones
-- Synology DS224+
-- Twelve South Bookark Stand
-
-## Photography
-
-- Fujifilm XE-4
+- Apple iPhone 14 Pro
+- Apple M3 Macbook Pro
+- UPLIFT 24" Deep Clearance Standing Desk
+- UPLIFT Envoke Chair
+- Apple Airpods Pro
+- PlayStation 5

@@ -11,13 +11,12 @@ import ProjectCarousel from "@/components/ProjectCarousel.astro";
 
 <BaseLayout
   title="Resume"
-  description="UI engineer who enjoys working at the intersection of design and engineering teams."
+  description="Cloud engineer that loves to continuously learn."
 >
   <header class="pb-8 pt-40">
     <h1 class="font-semibold">Resume&nbsp;&not;</h1>
     <p class="text-secondary mt-1 text-pretty">
-      User Interface Engineer who enjoys working at the intersection of design
-      and engineering teams. Currently apart of the design team at Clerk.
+      Cloud engineer that loves to continuously learn. Currently apart of the managed operations team at AWS.
     </p>
   </header>
 
@@ -80,32 +79,7 @@ import ProjectCarousel from "@/components/ProjectCarousel.astro";
         </p>
       </div>
     </div>
-  </section> -->
-
-  <section class="pt-8 pb-16 border-t border-primary" id="recommendations">
-    <h2 class="font-semibold mb-8">Recommendations</h2>
-    <ul class="-my-8 divide-y divide-primary divide-dashed">
-      {
-        recommendations.map((recommendation: RecommendationProps) =>
-          recommendation.render().then(({ Content }) => (
-            <li class="py-8">
-              <figure class="grid sm:grid-cols-3 gap-x-8 gap-y-4">
-                <blockquote class="col-span-2 sm:col-start-2">
-                  <Content />
-                </blockquote>
-                <figcaption class="sm:col-start-1 sm:row-start-1">
-                  <p>{recommendation.data.name}</p>
-                  <p class="text-secondary text-sm">
-                    {recommendation.data.title}
-                    <br class="hidden sm:block" />
-                    {recommendation.data.company}
-                  </p>
-                </figcaption>
-              </figure>
-            </li>
-          ))
-        )
-      }
+  </section> --> 
     </ul>
   </section>
 </BaseLayout>

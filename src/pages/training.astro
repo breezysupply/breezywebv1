@@ -4,8 +4,8 @@ import FormattedDate, {
   parseDateToString,
 } from "@/components/FormattedDate.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
-type NoteProps = CollectionEntry<"notes">;
-const notes = await getCollection("notes", ({ data }) => {
+type NoteProps = CollectionEntry<"training">;
+const notes = await getCollection("training", ({ data }) => {
   return import.meta.env.PROD ? data.draft !== true : true;
 });
 const sortedNotes = notes.sort((a, b) => {
@@ -27,17 +27,17 @@ function groupByDay(items: NoteProps[]): Record<string, NoteProps[]> {
 }
 ---
 
-<BaseLayout title="Captain's Log" description="Short-form thoughts and updates">
+<BaseLayout title="Training Log" description="My workouts and whatnot">
   <header class="pb-8 pt-40 border-b border-primary">
-    <h1 class="font-semibold">Notes&nbsp;&not;</h1>
+    <h1 class="font-semibold">Training Log&nbsp;&not;</h1>
     <p class="text-secondary text-pretty mt-1">
-      Short-form thoughts and updates.
+      My workouts and whatnot.
     </p>
   </header>
   <section class="pt-8 pb-16">
     <dl class="grid grid-cols-[max-content_minmax(0,1fr)] -my-8">
       {
-        Object.entries(groupedNotes).map(([date, notes]) => {
+        Object.entries(groupedNotes).map(([date, training]) => {
           return (
             <>
               <dt
@@ -49,7 +49,7 @@ function groupByDay(items: NoteProps[]): Record<string, NoteProps[]> {
                   class="text-secondary tabular-nums"
                 />
               </dt>
-              {notes.map((note) =>
+              {training.map((note) =>
                 note.render().then(({ Content }) => (
                   <dd
                     id={note.slug}

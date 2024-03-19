@@ -10,8 +10,8 @@ const events = await getCollection("events", ({ data }) => {
 
 // Sort events by date, ensuring future events are listed first
 const sortedEvents = events.sort((a, b) => {
-  const aDate = new Date(a.data.date);
-  const bDate = new Date(b.data.date);
+ const aDate = new Date(a.data.date).getTime(); // Convert to timestamp
+  const bDate = new Date(b.data.date).getTime(); // Convert to timestamp
   return aDate - bDate;
 }).filter(event => new Date(event.data.date) >= new Date());
 
@@ -29,7 +29,6 @@ const sortedEvents = events.sort((a, b) => {
       sortedEvents.map((event, index) => {
         const expandId = `expand-event-${index}`;
         return (
-          <article key={expandId} class="event-container">
             <label for={expandId} class="grid-label" style="display: block;">
               <span class="date-spacer">
                 <FormattedDate

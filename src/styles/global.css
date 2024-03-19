@@ -149,4 +149,26 @@
   /* Other styling properties */
 }
 
+.label-flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.event-title, .event-date {
+  margin: 0;
+}
+
+.event-flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.date-spacer::after {
+  content: '';
+  display: inline-block;
+  width: 10px; /* Adjust this value to increase or decrease the space */
+}
+
 }

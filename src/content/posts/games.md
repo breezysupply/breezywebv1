@@ -11,6 +11,10 @@ toc: true
 - Helldivers 2
 - Call of Duty: Modern Warfare 2 (2023)
 
+## Anticipated Games
+- Dragon's Dogma 2
+- Elden Ring DLC
+
 ## Favorites
 - Bloodborne
 - Destiny 1 & 2
@@ -23,11 +27,13 @@ toc: true
 - Crash Bandicoot (Entire series)
 - GTA (Entire Series)
 - Fallout: New Vegas
+- Pokemon Red/Blue/Yellow
 
-## Never Finished
-- Returnal
-- Red Dead Redemption 2
-- Skyrim
-- Alan Wake II (Remaster)
+## Never Finished / Didn't like
+- Returnal (NF)
+- Red Dead Redemption 2 (NF)
+- Skyrim (NF)
+- Alan Wake II (Remaster) (NF)
+- FF7 Remake (DL)
 
 

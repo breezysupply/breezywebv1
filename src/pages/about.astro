@@ -4,8 +4,6 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import Badge from "@/components/Badge.astro";
 type JobProps = CollectionEntry<"jobs">;
 const jobs = await getCollection("jobs");
-type RecommendationProps = CollectionEntry<"recommendations">;
-const recommendations = await getCollection("recommendations");
 import ProjectCarousel from "@/components/ProjectCarousel.astro";
 ---
 

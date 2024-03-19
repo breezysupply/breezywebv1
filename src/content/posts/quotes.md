@@ -7,3 +7,5 @@ published: 2024-03-18
 | :)                                                              
 | -----------------------------------------------------------------------------------------------------------------------------------------------: |
 | "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." - Mewtwo |
+| "Don't get mad, get better." - UNK |
+| "Every time at bat can't be a homerun, soldier." - Yoseb |

@@ -69,6 +69,22 @@ Current rotation:
 - [HOTO Tools Screwdriver Tool Set](https://hototools.com/products/3-6v-screwdriver-tool-set)
 - [HOTO Tools Electric Air Pump](https://hototools.com/products/hoto-portable-electric-tire-inflator)
 
+## Brands
+
+- [Barrage800](https://www.barrage800.com)
+- [Sample Surplus](https://www.sample-surplus.com)
+- [Represent](https://www.representclo.com)
+- [Kith](https://www.kith.com)
+- [Filson](https://www.filson.com)
+- [ThruDark](https://www.thrudark.com)
+- [Stussy](https://www.stussy.com)
+- [Nike ACG](https://www.nike.com/acg)
+- [Supreme](https://www.supremenewyork.com)
+- [Hoka](https://www.hokaoneone.com)
+- [The North Face](https://www.thenorthface.com)
+- [Ten Thousand](https://www.tenthousand.cc)
+- [ASRV](https://www.asrv.com)
+
 ## Archive
 
 Items that have fallen off my favorites list for one reason or another.

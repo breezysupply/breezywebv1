@@ -11,7 +11,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://alexcarpenter.me",
+  site: "https://brettpierce.me",
   integrations: [sitemap(), tailwind()],
   markdown: {
     remarkPlugins: [remarkDefinitionList, remarkAdmonitions],

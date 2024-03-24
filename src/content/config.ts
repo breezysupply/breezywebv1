@@ -67,5 +67,4 @@ export const collections = {
   jobs,
   notes,
   posts,
-  recommendations,
 };

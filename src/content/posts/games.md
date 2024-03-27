@@ -2,17 +2,17 @@
 title: Games
 description: Games I enjoy.
 published: 2024-03-17
-updated: 2024-03-18
+updated: 2024-03-26
 toc: true
 ---
 
 ## Recent
+- Dragon's Dogma 2
 - Elden Ring
 - Helldivers 2
 - Call of Duty: Modern Warfare 2 (2023)
 
 ## Anticipated Games
-- Dragon's Dogma 2
 - Elden Ring DLC
 
 ## Favorites

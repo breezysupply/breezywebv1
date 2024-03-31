@@ -10,3 +10,4 @@ published: 2024-03-18
 | "Don't get mad, get better." - UNK |
 | "Every time at bat can't be a homerun, soldier." - Yoseb |
 | "If you want to go fast, go alone. If you want to go far, go together." - Random IG person |
+| "We plan and God laughs." - UNK |

@@ -1,21 +1,30 @@
 ---
 // Frontmatter for metadata
 title: "Now"
-description: "What I am up to now (As of 3/18/24)"
+description: "What I am up to now"
 published: "2024-03-18"
 updated: "2024-04-01"
 // Import statements
 import BaseLayout from "@/layouts/BaseLayout.astro";
 ---
 
-<BaseLayout>
-  <section class="prose py-40">
-    <h2>Currently</h2>
-    <ul>
-      <li>Reading (still...) <a href="http://barbarakingsolver.net/books/demon-copperhead/" target="_blank">Demon Copperhead</a></li>
-      <li>Playing Dragon's Dogma 2. Gets better the more I play.</li>
-      <li>(still) Watching Attack on Titan. I'll finish it soon, I promise. On the last 2 episodes.</li>
-      <li>Currently listening to: <br><strong>808's and Heartbreaks</strong> by <em>Ye</em> (since Arlo was born at 8:08) <br> && <br> bumping <strong>Heaven :x: Hell</strong> by <em>Sum 41</em> for a new nostalgic feel (if that makes any sense)</li>
-    </ul>
+<BaseLayout title="Now" description="What I'm up to.">
+  <header class="pb-8 pt-40 border-b border-primary">
+    <h1 class="font-semibold">Captain's Log&nbsp;&not;</h1>
+    <p class="text-secondary text-pretty mt-1">
+      What I'm up to now (Last updated 4/2/2024).
+    </p>
+  </header>
+<section class="prose py-40">
+    <dl>
+      <dt>Reading:</dt>
+      <dd>Demon Copperhead</dd>
+      <dt>Playing:</dt>
+      <dd>Dragon's Dogma 2 (PS5)</dd>
+      <dt>Listening:</dt>
+      <dd>
+        <b>808's and Heartbreaks</b> by <i>Ye</i> <br><b>Heaven :x: Hell</b> by <i>Sum 41</i>
+      </dd>
+    </dl>
   </section>
 </BaseLayout>

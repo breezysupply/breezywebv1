@@ -6,11 +6,9 @@ updated: 2024-03-26
 toc: true
 ---
 
-## Recent
+## Currently playing
 - Dragon's Dogma 2
 - Elden Ring
-- Helldivers 2
-- Call of Duty: Modern Warfare 2 (2023)
 
 ## Anticipated Games
 - Elden Ring DLC
@@ -28,6 +26,10 @@ toc: true
 - GTA (Entire Series)
 - Fallout: New Vegas
 - Pokemon Red/Blue/Yellow
+
+## Games Catalog
+- Helldivers 2
+- Call of Duty: Modern Warfare 2 (2023)
 
 ## Never Finished / Didn't like
 - Returnal (NF)

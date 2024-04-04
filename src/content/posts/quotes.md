@@ -11,3 +11,4 @@ published: 2024-03-18
 | "Every time at bat can't be a homerun, soldier." - Yoseb |
 | "If you want to go fast, go alone. If you want to go far, go together." - Random IG person |
 | "We plan and God laughs." - UNK |
+| "If it's out of your hands, it deserves freedom in your mind too." - UNK |

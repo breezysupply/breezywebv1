@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: A list of some of my favorite quotes
-published: 2024-03-18
+published: 2024-04-16
 ---
 
 | :)                                                              

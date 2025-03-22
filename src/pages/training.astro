@@ -25,14 +25,16 @@ function groupByDay(items: NoteProps[]): Record<string, NoteProps[]> {
   });
   return grouped;
 }
+
 ---
 
 <BaseLayout title="Training Log" description="My workouts and whatnot">
   <header class="pb-8 pt-40 border-b border-primary">
     <h1 class="font-semibold">Training Log&nbsp;&not;</h1>
     <p class="text-secondary text-pretty mt-1">
-      Currently training for: <b>Personal reasons; no events til Ragnar</b> <br>
-      Click workouts to expand details.
+      Currently training for: <b>Ragnar Trail Richmond (04-25/26-2025)</b> <br>
+      Click workouts to expand details.<br>
+      Training Archive: <a href="/training-archive/2024">2024</a>
     </p>
   </header>
   <section class="pt-8 pb-16">

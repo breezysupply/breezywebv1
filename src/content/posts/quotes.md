@@ -6,6 +6,7 @@ published: 2024-04-16
 
 | :)                                                              
 | -----------------------------------------------------------------------------------------------------------------------------------------------: |
+| "Don't stop when you're tired. Stop when you're done." - Goggins |
 | "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are." - Mewtwo |
 | "Don't get mad, get better." - UNK |
 | "Every time at bat can't be a homerun, soldier." - Yoseb |

@@ -2,12 +2,13 @@
 title: Timeline
 description: My events and milestones
 published: 2024-03-17
-updated: 2024-03-28
+updated: 2025-03-21
 ---
 
 | Description                                          | Tag      |       Date |
 | -----------------------------------------------------| -------- | ---------: |
-| Arlo was born in Leesburg, VA                        | Personal | 2024-03-28
+| Placeholder for a bunch of stuff. Too lazy to add them right now | Personal | 2025-03-21 |
+| Arlo was born in Leesburg, VA                        | Personal | 2024-03-28 |
 | Promoted to Cloud Engineer at AWS                    | Work     | 2024-02-28 |
 | Completed Hyrox (Doubles)                            | Personal | 2024-03-02 |
 | Completed my first Hyrox (Solo)                      | Personal | 2023-12-16 |

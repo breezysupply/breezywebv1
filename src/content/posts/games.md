@@ -2,18 +2,18 @@
 title: Games
 description: Games I enjoy.
 published: 2024-03-17
-updated: 2024-03-26
+updated: 2025-03-21
 toc: true
 ---
 
 ## Currently playing
-- Dragon's Dogma 2
-- Elden Ring
+- Monster Hunter Wilds
 
 ## Anticipated Games
-- Elden Ring DLC
+- Elden Ring Nightreign
 
 ## Favorites
+- Elden Ring
 - Bloodborne
 - Destiny 1 & 2
 - The Last of Us (Entire series)
@@ -28,6 +28,7 @@ toc: true
 - Pokemon Red/Blue/Yellow
 
 ## Games Catalog
+- Dragon's Dogma 2
 - Helldivers 2
 - Call of Duty: Modern Warfare 2 (2023)
 

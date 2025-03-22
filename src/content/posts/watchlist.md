@@ -1,13 +1,12 @@
 ---
 title: Watchlist
 description: Movies & Shows I watch and what I think.
-published: 2024-04-19
+published: 2025-03-21
 toc: true
 ---
 
 ## Recent
-- Fallout TV Series
-- Dune 2 (2024)
+- The Walking Dead: Dead City
 
 ## Favorites
 - Train to Busan
@@ -17,6 +16,8 @@ toc: true
 - Killing Them Softly
 - American Gangster
 - Home Alone
+- The Last of Us
+- Fallout TV Series
 
 ## Would <i> Not </i> Watch Again
 - Cats

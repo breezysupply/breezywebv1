@@ -62,9 +62,19 @@ const recommendations = defineCollection({
   }),
 });
 
+const trainingArchive = defineCollection({
+  type: "content",
+  schema: z.object({
+    published: z.coerce.date(),
+    draft: z.boolean().optional(),
+  }),
+});
+
 export const collections = {
   bookmarks,
   jobs,
   notes,
   posts,
+  recommendations,
+  trainingArchive,
 };

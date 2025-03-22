@@ -4,16 +4,21 @@ import FormattedDate, {
   parseDateToString,
 } from "@/components/FormattedDate.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
-type NoteProps = CollectionEntry<"notes">;
-const notes = await getCollection("notes", ({ data }) => {
+
+type NoteProps = CollectionEntry<"notesArchive">;
+
+const notes = await getCollection("notesArchive", ({ data }) => {
   return import.meta.env.PROD ? data.draft !== true : true;
 });
+
 const sortedNotes = notes.sort((a, b) => {
   const aDate = a.data.published;
   const bDate = b.data.published;
   return Date.parse(bDate.toString()) - Date.parse(aDate.toString());
 });
+
 const groupedNotes = groupByDay(sortedNotes);
+
 function groupByDay(items: NoteProps[]): Record<string, NoteProps[]> {
   const grouped: Record<string, NoteProps[]> = {};
   items.forEach((item) => {
@@ -27,12 +32,11 @@ function groupByDay(items: NoteProps[]): Record<string, NoteProps[]> {
 }
 ---
 
-<BaseLayout title="Captain's Log" description="Short-form thoughts and updates">
+<BaseLayout title="Captain's Log Archive 2024" description="Archive of thoughts and updates from 2024">
   <header class="pb-8 pt-40 border-b border-primary">
-    <h1 class="font-semibold">Captain's Log&nbsp;&not;</h1>
+    <h1 class="font-semibold">Captain's Log Archive 2024&nbsp;&not;</h1>
     <p class="text-secondary text-pretty mt-1">
-      Short-form thoughts and updates.<br>
-      Log Archive: <a href="/captains-log-archive/2024">2024</a>
+      <a href="/captains-log">Back to current log</a>
     </p>
   </header>
   <section class="pt-8 pb-16">
